@@ -1,0 +1,14 @@
+{
+  "sourceRepository": "ct801988/everyday-athlete",
+  "sourceSha": "89d087e5746eb36b5763b8356e2204de864e7622",
+  "artifactManifestSha256": "b91602ae9822c2b5054ba2673c535a2b65c62bdc5d032ce6a56a3ad3c3585a6c",
+  "url": "https://everyday-athlete-preview.github.io/",
+  "deploymentApproved": false,
+  "ownerApprovalRef": null,
+  "tests": {
+    "passed": 181,
+    "failed": 0,
+    "skipped": 3,
+    "note": "Previously executed local desktop Chromium and unit/integration validation; 3 inherited native-stack skips. No GitHub-hosted or physical iPhone execution yet."
+  }
+}
