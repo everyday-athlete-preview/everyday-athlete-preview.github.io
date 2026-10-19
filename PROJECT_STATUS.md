@@ -1,3 +1,9 @@
+# Release 001 — exact candidate authorized; workflow not started
+
+2026-10-19. Owner explicitly approved only source 89d087e5746eb36b5763b8356e2204de864e7622 and manifest digest b91602ae9822c2b5054ba2673c535a2b65c62bdc5d032ce6a56a3ad3c3585a6c for https://everyday-athlete-preview.github.io/. Exactly one allowlist entry is recorded; see approvals/V2_PREVIEW_001.md. No future releases allowed. This authorization change does not itself deploy: manual workflow dispatch and successful tests/digest check are required, then ct801988 personally approves the github-pages deployment gate. Never auto-approve. Stop/report all failed checks or mismatches. Source PR #4/#5 and Winter Strong untouched. No unreviewed media or costs.
+
+---
+
 # Everyday Athlete publisher — prepared, deployment NOT approved
 
 2026-10-19. ChatGPT GitHub organization installation is now visible; creation of ea/prepare-publisher succeeded. Existing publishing main e6d2c5caeca11251e392eb67bceebe8a42b806e9 contains only README.md and is preserved.

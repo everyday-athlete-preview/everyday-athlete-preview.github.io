@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "sourceSha": "89d087e5746eb36b5763b8356e2204de864e7622",
+    "artifactManifestSha256": "b91602ae9822c2b5054ba2673c535a2b65c62bdc5d032ce6a56a3ad3c3585a6c",
+    "ownerApprovalRef": "approvals/V2_PREVIEW_001.md",
+    "deploymentApproved": true
+  }
+]
